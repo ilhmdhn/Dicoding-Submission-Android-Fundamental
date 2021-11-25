@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GitHub Users</string>
+    <string name="search">Search User</string>
+    <string name="list_user_github_app">List User GitHub App</string>
+    <string name="language">Language</string>
+    <string name="search_hint">Search User GitHub</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="list_favorite">List Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="change_language">Change Language</string>
+    <string name="aktifkan_pengingat">Turn On Reminder?</string>
+    <string name="favorite">Added Into Favorite</string>
+    <string name="unfavorite">Remove From Favorite</string>
+    <string name="no_data">No Data</string>
+    <string name="reminder_on">Reminder On</string>
+    <string name="reminder_off">Reminder Off</string>
+    <string name="notif_text">Reminder Github Users App</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="favorite_users">Favorite Users</string>
+    <string name="empty_text">No Data</string>
+</resources>
